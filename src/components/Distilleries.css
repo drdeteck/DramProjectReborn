@@ -1,0 +1,12 @@
+.distilleriesContainer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.distilleries {
+    width: 100%;
+    height: 450px;
+    overflow-y: auto;
+}
